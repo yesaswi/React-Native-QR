@@ -11,5 +11,7 @@
 
 Podfile
 
+```
 permissions_path = '../node_modules/react-native-permissions/ios'
 pod 'Permission-Camera', :path => "#{permissions_path}/Camera"
+```
